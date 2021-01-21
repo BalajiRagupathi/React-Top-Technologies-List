@@ -2042,6 +2042,8 @@ var dataBar = {
     [412, 243, 280, 580, 453, 353, 300, 364, 368, 410, 636, 695]
   ]
 };
+
+console.log(dataBar);
 var optionsBar = {
   seriesBarDistance: 10,
   axisX: {
